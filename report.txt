@@ -1,0 +1,34 @@
+Task: VPN Setup and Analysis
+
+VPN Used: ProtonVPN 
+Website: https://protonvpn.com
+
+Steps Followed:
+1. Created a ProtonVPN free account.
+2. Installed ProtonVPN client for Windows via download.
+3. Logged in and connected to a free server in the Netherlands.
+4. Confirmed IP change using whatismyipaddress.com (Screenshot attached).
+5. Browsed websites to ensure traffic was encrypted and normal.
+6. Disconnected the VPN and checked original IP against VPN IP.
+7. Observed slight reduction in surfing speed when connected through VPN.
+
+Encryption & Privacy Features:
+- ProtonVPN employs AES-256 encryption.
+- Tunneling Protocol: OpenVPN (UDP/TCP), WireGuard (beta)
+- Strict No-Logs Policy
+- DNS leak protection and Kill switch active
+
+VPN Benefits:
+- Secures internet traffic and conceals IP.
+- Evades geo-restrictions and censorship.
+- Guards against tracking while using public Wi-Fi.
+
+VPN Limitations:
+- Lower speed compared to regular connection.
+- Free servers might be congested.
+- Does not provide absolute anonymity.
+- VPN IPs might be blocked by some websites.
+
+Conclusion:
+This practical VPN exercise facilitated the comprehension of how VPNs safeguard privacy and how encryption functions in practice.
+
