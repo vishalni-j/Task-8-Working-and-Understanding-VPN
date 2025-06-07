@@ -13,7 +13,8 @@ To have hands-on practice with VPNs, learn about encryption, and try out tools f
 - Wrote analysis of VPN pros, cons, and features
 
 # Files Included
-- vpn_report.txt
+-
+- report.txt
 - Screenshots
 
 
